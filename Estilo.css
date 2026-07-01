@@ -1,0 +1,27 @@
+
+body {
+    background-color: #f5c4e7; /* Color de fondo claro */
+    color: #343a40; /* Color de texto oscuro para mejor legibilidad */
+    font-family: 'Arial', sans-serif; /* Fuente moderna y legible */
+}
+.carousel-item img {
+    height: 500px; /* Define la altura que desees */
+    object-fit: cover; /* Recorta la imagen para que rellene el espacio sin deformarse */
+    object-position: center; /* Centra el enfoque de la imagen */
+}
+main {
+    padding: 20px;
+    background-color: #bdcafb;  /* Color de fondo claro para el contenido principal */
+}
+.footer {
+    background-color: #343a40; /* Color de fondo oscuro para el pie de página */
+    color: #d4d4c7; /* Color de texto claro para contraste */
+    text-align: center;
+    padding: 10px 0;
+}
+.pie{
+    background-color: #343a40; /* Color de fondo oscuro para el pie de página */
+    color: #d4d4c7; /* Color de texto claro para contraste */
+    text-align: center;
+    padding: 10px 0;
+}

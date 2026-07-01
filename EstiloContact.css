@@ -1,0 +1,26 @@
+/* Formulario de contacto
+/* Mejora la estética del formulario */
+form {
+    transition: transform 0.3s ease;
+    background-color: rgb(197, 205, 245);
+    padding: 20px;
+}
+form:hover {
+    transform: scale(1.05); /* Aumenta ligeramente el tamaño al pasar el mouse */
+}
+.container {
+    background-color: rgb(197, 205, 245);
+    padding: 20px;
+}
+.footer {
+    background-color: #343a40; /* Color de fondo oscuro para el pie de página */
+    color: #d4d4c7; /* Color de texto claro para contraste */
+    text-align: center;
+    padding: 10px 0;
+}
+.pie{
+    background-color: #343a40; /* Color de fondo oscuro para el pie de página */
+    color: #d4d4c7; /* Color de texto claro para contraste */
+    text-align: center;
+    padding: 10px 0;
+}
